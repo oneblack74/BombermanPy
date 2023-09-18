@@ -6,3 +6,6 @@ Les touches:
   - joueur 1: direction = zqsd, poser une bombe = f
   - joueur 2: direction = flèches directionnelles, poser une bombe = m
   - afficher les collisons
+
+![alt tag]
+(https://user-images.githubusercontent.com/123307041/268609457-c4dc3763-43aa-4165-897d-b8ec96c81e93.png)
